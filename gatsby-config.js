@@ -11,7 +11,7 @@ module.exports = {
     title: 'My super blog',
     description: 'Gatsby blog with Strapi',
     author: 'Strapi team',
-    siteURL: "https://techzu.netlify.app"
+    siteUrl: "https://techzu.netlify.app"
   },
   plugins: [
     'gatsby-plugin-react-helmet',
