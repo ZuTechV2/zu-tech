@@ -10,7 +10,8 @@ module.exports = {
   siteMetadata: {
     title: 'My super blog',
     description: 'Gatsby blog with Strapi',
-    author: 'Strapi team'
+    author: 'Strapi team',
+    siteURL: "https://techzu.netlify.app"
   },
   plugins: [
     'gatsby-plugin-react-helmet',
